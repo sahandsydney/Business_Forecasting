@@ -14,7 +14,9 @@ By integrating financial data with NLP analysis, this research project aims to p
 This repository includes the following components:
 
 **Data**: Contains the financial data and news headlines related to Adani Ports.
+
 **Codes**: Jupyter notebooks showcasing the step-by-step process of time series forecasting using LSTM and sentiment analysis using FinBERT.
+
 **Imgs**: Output files and visualizations demonstrating the performance and insights derived from the analysis.
 
 ### Usage
