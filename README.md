@@ -18,14 +18,14 @@ This repository includes the following components:
 **Imgs**: Output files and visualizations demonstrating the performance and insights derived from the analysis.
 
 ### Usage
-Clone the repository: git clone https://github.com/rahulrao9/Business_Forecasting.git
-Explore the data directory and familiarize yourself with the available financial data and news headlines.
-Navigate to the notebooks directory and run the Jupyter notebooks to follow the step-by-step process of time series forecasting using LSTM and sentiment analysis with FinBERT.
-Customize the code to fit your own datasets by editing the relevant sections and adjusting the model hyperparameters as needed.
-Document your findings, insights, and recommendations in the notebooks, providing explanations and interpretations of the results.
-Experiment with different techniques, such as feature engineering, model architecture variations, or alternative sentiment analysis approaches, to further enhance the accuracy and effectiveness of the analysis.
-Visualize the results using appropriate graphs, charts, and tables, and save them in the results directory.
-Feel free to explore the code, adapt it to your specific needs, and apply the methodology to other companies or industries. By integrating time series forecasting, NLP, and financial analysis, this research project aims to provide actionable insights for making informed investment decisions and optimizing overall business strategies.
+- Clone the repository: git clone https://github.com/rahulrao9/Business_Forecasting.git
+- Explore the data directory and familiarize yourself with the available financial data and news headlines.
+- Navigate to the notebooks directory and run the Jupyter notebooks to follow the step-by-step process of time series forecasting using LSTM and sentiment analysis with FinBERT.
+- Customize the code to fit your own datasets by editing the relevant sections and adjusting the model hyperparameters as needed.
+- Document your findings, insights, and recommendations in the notebooks, providing explanations and interpretations of the results.
+- Experiment with different techniques, such as feature engineering, model architecture variations, or alternative sentiment analysis approaches, to further enhance the accuracy and effectiveness of the analysis.
+- Visualize the results using appropriate graphs, charts, and tables, and save them in the results directory.
+- Feel free to explore the code, adapt it to your specific needs, and apply the methodology to other companies or industries. By integrating time series forecasting, NLP, and financial analysis, this research project aims to provide actionable insights for making informed investment decisions and optimizing overall business strategies.
 
 ***If you find this repository valuable, consider giving it a star ⭐️ to acknowledge the original author's work.***
 
