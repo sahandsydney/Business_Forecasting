@@ -27,6 +27,6 @@ This repository includes the following components:
 - Visualize the results using appropriate graphs, charts, and tables, and save them in the results directory.
 - Feel free to explore the code, adapt it to your specific needs, and apply the methodology to other companies or industries. By integrating time series forecasting, NLP, and financial analysis, this research project aims to provide actionable insights for making informed investment decisions and optimizing overall business strategies.
 
-***If you find this repository valuable, consider giving it a star ⭐️ to acknowledge the original author's work.***
+***If you find this repository valuable, consider giving it a star ⭐️***
 
 > Note: Keep in mind that the accuracy and reliability of the forecasting and sentiment analysis models depend on the quality of the data and the specific context. Conduct thorough validation and analysis to ensure the suitability of the recommendations for your particular investment decisions.
