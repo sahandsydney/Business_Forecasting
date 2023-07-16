@@ -1,0 +1,5 @@
+mega.nz/#!ysBWXRqK!yPXLr25PgJi184pbJU3GtnqUY4wG7YvuPpxJjEmnb9A
+https://www.trackmyhashtag.com/blog/free-twitter-datasets/
+https://www.kaggle.com/discussions/general/35739
+https://github.com/shaypal5/awesome-twitter-data#twitter-datasets
+https://github.com/alex9smith/gdelt-doc-api
